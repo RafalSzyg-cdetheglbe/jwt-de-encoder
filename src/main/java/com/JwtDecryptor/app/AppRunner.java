@@ -26,7 +26,6 @@ public class AppRunner
         JTextField usernameField = new JTextField(20);
 
 
-
         JTextArea inputTextArea = new JTextArea(5, 40);
 
         JTextArea outputTextArea = new JTextArea(5, 40);
